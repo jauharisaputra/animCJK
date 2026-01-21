@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 header("Content-Type: text/plain");
 $myServer="192.168.1.23"; // to replace by your server domain or ip to enable save feature
 if (($_SERVER['SERVER_NAME']=="localhost")||($_SERVER['SERVER_NAME']==$myServer))
@@ -15,3 +15,4 @@ if (($_SERVER['SERVER_NAME']=="localhost")||($_SERVER['SERVER_NAME']==$myServer)
 }
 else echo "NOK (not a convenient server)";
 ?>
+

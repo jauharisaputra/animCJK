@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 include_once __DIR__."/samples/_php/encoding.php";
 include_once __DIR__."/samples/_php/unicode.php";
 
@@ -154,3 +154,4 @@ function buildSvg($a)
 	return $s;
 }
 ?>
+

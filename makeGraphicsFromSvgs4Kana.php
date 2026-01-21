@@ -1,4 +1,4 @@
-<!doctype html>
+﻿<!doctype html>
 <html>
 <!--
 Purpose: make graphicsKana.txt from svgsJaKana folder content
@@ -195,3 +195,4 @@ Copyright 2016-2022 - FM&SH
 </footer>
 </body>
 </html>
+

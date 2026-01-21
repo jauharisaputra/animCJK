@@ -1,4 +1,4 @@
-<!doctype html>
+﻿<!doctype html>
 <html>
 <!--
 Purpose: make graphicsXxx.txt from svgsXxx folder content
@@ -232,3 +232,4 @@ Copyright 2016-2025 - FM&SH
 </footer>
 </body>
 </html>
+

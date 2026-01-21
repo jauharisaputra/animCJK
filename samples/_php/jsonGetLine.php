@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 header("Content-Type: text/plain");
 $data=(isset($_POST["data"])?$_POST["data"]:"");
 $source=(isset($_POST["source"])?$_POST["source"]:"");
@@ -12,3 +12,4 @@ else if ($handle=fopen($source,"r"))
 }
 else echo "Error: cannot open ".$source;
 ?>
+

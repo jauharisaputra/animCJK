@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 header("Content-type:application/json;charset=utf-8");
 include_once __DIR__."/encoding.php";
 include_once __DIR__."/getCharList.php";
@@ -26,8 +26,8 @@ function makeTitle($s)
 	if($s=="g5") return "Grade 5";
 	if($s=="g6") return "Grade 6";
 	if($s=="g7") return "Junior high school";
-	if($s=="g8") return "Jinmeiyō";
-	if($s=="g9") return "Hyōgai";
+	if($s=="g8") return "JinmeiyÅ";
+	if($s=="g9") return "HyÅgai";
 	if($s=="gc") return "Components";
 	if($s=="gs") return "Strokes";
 	if($s=="hanja8") return "Hanja level 8";
@@ -134,3 +134,4 @@ else
 }
 
 ?>
+

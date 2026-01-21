@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 header("Content-Type: text/plain");
 include_once __DIR__."/encoding.php";
 include_once __DIR__."/getCharList.php";
@@ -11,3 +11,4 @@ if(isset($input["s"]))
 else echo "";
 
 ?>
+

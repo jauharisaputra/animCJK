@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 function unichr($u)
 {
 	// return a char from its decimal unicode
@@ -33,3 +33,5 @@ function unihanUnicode($c)
 	return "U+".strtoupper(dechex(decUnicode($c)));
 }
 ?>
+
+

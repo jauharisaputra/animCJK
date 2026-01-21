@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 header("Content-type:application/json;charset=utf-8");
 include_once __DIR__."/encoding.php";
 include_once __DIR__."/unicode.php";
@@ -74,3 +74,4 @@ foreach($data as $dec)
 }
 echo json_encode($r);
 ?>
+

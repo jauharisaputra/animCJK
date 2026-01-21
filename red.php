@@ -1,4 +1,4 @@
-<!doctype html>
+﻿<!doctype html>
 <html>
 <head>
 <meta charset="UTF-8">
@@ -9,3 +9,4 @@
 <p>The sample was moved to <a href="samples/redPNG.html">samples/redPNG.html</a></p>
 </body>
 </html>
+
